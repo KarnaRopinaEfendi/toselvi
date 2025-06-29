@@ -15,7 +15,7 @@ const body = document.querySelector("body");audio = new Audio('' + linkmp3.src);
   }
   
   async function inipesan(){
-    vketikhalo="Aloooo Destii ✨";
+    vketikhalo="Aloooo Selvii ✨";
     mulainama();
   }
 
